@@ -1,5 +1,5 @@
 ---
 include:
-  - board: rpi_pico
+  - board: rpi_pico//zmk
     shield: tc36k
  
